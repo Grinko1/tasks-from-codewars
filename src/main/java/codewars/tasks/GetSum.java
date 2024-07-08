@@ -1,4 +1,4 @@
-package example.task.codewars;
+package codewars.tasks;
 
 public class GetSum {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package example.task.codewars;
+package codewars.tasks;
 
 
 import java.util.Arrays;

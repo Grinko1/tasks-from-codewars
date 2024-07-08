@@ -1,4 +1,4 @@
-package ru.tg.bot;
+package codewars.tasks;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

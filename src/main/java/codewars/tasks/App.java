@@ -1,4 +1,4 @@
-package ru.tg.bot;
+package codewars.tasks;
 
 /**
  * Hello world!
